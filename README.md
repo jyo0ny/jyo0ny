@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F9C4F3,100:FF5AB9&text=Love%20Ya!-nl-&desc=Jyo0n's%20GitHub&fontColor=ffffff&fontSize=60&descSize=35&descAlign=73&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:F9C4F3,100:FF5AB9&text=Love%20Ya!-nl-&desc=Jyo0n's%20GitHub&fontColor=ffffff&fontSize=60&descSize=30&descAlign=73&descAlignY=50&animation=twinkling)
 
 <div align="center">
 
@@ -13,6 +13,8 @@
   </a>
 </span>
 
+#### ✨Samsung Sw Academy For Youth✨
+#### SSAFY 12기
 ---
 
 
