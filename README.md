@@ -15,6 +15,7 @@
 
 #### ✨Samsung Sw Academy For Youth✨
 #### SSAFY 12기
+#### 🐤왕초보 개발자🐤
 ---
 
 
